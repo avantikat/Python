@@ -1,16 +1,9 @@
 # Health Management System
-# 3 clients - avantika, parth and ved
+
 
 def getdate():
     import datetime
     return datetime.datetime.now()
-
-# Total 6 files
-# write a function that when executed takes as input client name
-# One more function to retrieve exercise or food for any client
-
-
-#bhai ye rha program
 import datetime
 def gettime():
     return datetime.datetime.now()
