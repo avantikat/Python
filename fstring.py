@@ -1,6 +1,6 @@
 import math
 
-me = "Harry"
+me = " avantika "
 a1 =3
 a = "this is %s %s"%(me, a1)
 a = "This is {1} {0}"
